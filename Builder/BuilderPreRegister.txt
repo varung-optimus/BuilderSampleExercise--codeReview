@@ -1,0 +1,16 @@
+We have registered you for personalized access to your online homeowner portal for: 
+<br/>
+<br/>
+<%Address%>
+<br/>
+<br/>
+To activate your account, please confirm your registration via the following link:
+<br/>
+<br/>
+<%VerificationUrl%>
+<br/>
+<br/>
+Should you choose not to activate your account, please disregard this email.
+<br/>
+<br/>
+If you encounter any issues accessing your homeowner portal please contact our care team at 1-877-744-7547 during business hours.
